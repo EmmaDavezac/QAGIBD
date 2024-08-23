@@ -32,88 +32,88 @@ idConsulta; Consulta; idRespuestaEsperada(idArticulo)
 31; ¿Que actividades no puede realizar un alumno en categoría pasivo?; 102
 32; ¿Hasta cuando se mantiene la regularidad de la asignatura?; 105
 33; ¿Que implica la pérdida de regularidad?; 107
-34; Que es un alumno vocacional?; 109
-35; Que derechos tiene un alumno vocacional?; 110
-36; Como puede aprobar una asignatura un alumno regular?; 113
-37; Como puede aprobar una materia un alumno libre?; 114
-38; Como se expresa la calificación final de una asignatura?; 129
-39; Quienes pueden solicitar equivalencias de algunas asignaturas?; 133
-40; Que tipo de ámbitos son los consejos de carrera?; 201
-41; Que datos contienen los anuncios?; 8
-42; Quien esta a cargo de la difusion del llamado a concurso?; 6
-43; Cual es el periodo de inscripcion a la convocatoria?; 10
-44; Como realizo mi solicitud de inscripcion?; 12
-45; Cuando presento el pleanamiento de la catedra?; 14
-46; Puedo presentarme a mas de un concurso?; 18
-47; Puede un apoderado intervenir en mis tramites?; 17
-48; Como se designa al jurado?; 25
-49; Como se compone el jurado?; 26
-50; Cuales son las causales de recusacion de un miembro del jurado?; 30
-51; Como evalua el jurado al aspirante?; 44
-52; Quienes participan en la deliberacion del jurado?; 46
-53; Puede haber mas de un aspirante con el mismo merito?; 48
-54; Que restricciones tiene un alumno pasivo?; 102
-55; Que podra realizar un alumno activo?; 103
-56; Cuanto tiempo se mantiene la regularidad en una asignatura?; 105
-57; De que consta la perdida de la regularidad?; 107
-58; Que esta habilitado a realizar un alumno libre?; 114
-59; En que momento se da a conocer la condiicon de cada alumno?; 115
-60; Cuantos turnos de examenes finales se dictan por año lectivo?; 117
-61; Que contiene un acta de evaluacion?; 121
-62; Como se lleva control de asignaturas correlativas?; 131
-63; Con que categorias de docentes universitarios cuenta la Facultad?; 148
-64; Cuales son las normas para el dictado de clases?; 151
-65; Como se determina la condicion de los alumnos?; 163
-66; Quienes estan habilitados a ingresar a la ensenanza de grado?; 228
-67; Cuales son los derechos del estudiante?; 234
-68; Que requisitos se especifican para ser docente?; 257
-69; Cuales son las condiciones para acceder a la formación de posgrado?; 261
-70; De que se encarga el estado provincial?; 315
-71; Cuales son los objetivos de la educacion superior?; 362
-72; Cuales son las modalidades del sistema educativo?; 371
-73; Cuales son los organos del gobierno universitario?; 381
-74; Quienes integran el consejo superior?; 386
-75; Quienes integran el consejo directivo?; 396
-76; Cuales son las funciones del consejo directivo?; 399
-77; Cuales son los requsitos para ser decano de la Facultad?; 400
-78; Cuales son las funciones del decano?; 401
-79; Que categorias de estudaintes reconoce la facultad?; 451
-80; Cuales son las formas de realizar la docencia?; 463
-81; De que consta la docencia regular?; 464
-82; De que consta la docencia libre?; 465
-83; De que manera se fomenta el desarrollo de la investigacion?; 467
-84; Cual es el fondo universitario?; 474
-85; Que cargos son incompatibles?; 482
-86; Cuales son las medidas ante la ausencia de un docente?; 492
-87; Cual es el objetivo de la tesis de cada alumno?; 10035
-88; Que es la tesis del estudiante?; 10040
-89; Cual es el plazo para la presentacion de la tesis?; 10084
-90; Qué obligaciones tienen los padres o tutores de los alumnos ?; 10174
-91; Que derechos tienen los padres o tutores de los alumnos ?; 10173
-92; Que deberes tienen los trabajadores de la educación?; 10176
-93; Cuales son los objetivos de la educación  especial?; 10157
-94; Cuales son las funciones de las universidades?; 10150
-95; Cuales son los objetivos de la educación de adultos?; 10159
-96; Que tiene la formación docente como objetivos?; 10147
-97; Cuales son los derechos de los educandos?; 10172
-98; Que se verifica en la evaluación  de la calidad en el sistema educativo?; 10178
-99; Qué tiene como objetivos la educación de posgrado?; 10152
-100; Cuales son los deberes de los trabajadores de la educación?; 10176
-101; Qué verificará la evaluación de la calidad en el sistema educativo; 10178
-102; Qué deberá hacer el El Poder Ejecutivo nacional, a través del ministerio específico?; 10182
-103; Cuál es la misión del Consejo Federal de Cultura y Educación?; 10184
-104; Cuáles son las funciones del Consejo Federal de Cultura y Educación?; 10185
-105; Cuáles son los organos que se compone el Consejo Federal de Cultura y Educación?; 10186
-106; De que dos Consejos Consultivos recibirá apoyo el Consejo Federal de Cultura y Educación?; 10187
-107; Qué atribuciones tienen las autoridades componententes de las provincias y de la municipalidad de la Ciudad de Buenos Aires?; 10188
-108; Con que finalidad financia el Poder Ejecutivo nacional los programas especiales de desarrollo educativo? ; 10193
-109; Que acordaron El Ministerio de Cultura y Educación y las autoridades educativas de las provincias y de la Municipalidad de la Ciudad de Buenos Aires con el seno del Consejo Federal de Cultura y Educación?; 10195
-110; El presupuesto de la administración pública nacional 1993 sera inferior a cual presupuesto?; 10196
-111; Las disposiciones de esta ley son aplicables a todos los niveles y regímenes especiales educativos con excepción cuales artículos?; 10197
-112; Que derechos tienen los padres o tutores de los alumnos/as?; 10173
-113; Que obligaciones tienen los padres o tutores de los alumnos/as?; 10174
-114; Cuales derechos de todos los trabajadores/as de la educación del ámbito estatal y privado se resguardarán?; 10175
-115; Cuales son los deberes de los trabajadores de la educación?; 10176
+34; ¿Que es un alumno vocacional?; 109
+35; ¿Que derechos tiene un alumno vocacional?; 110
+36; ¿Como puede aprobar una asignatura un alumno regular?; 113
+37; ¿Como puede aprobar una materia un alumno libre?; 114
+38; ¿Como se expresa la calificación final de una asignatura?; 129
+39; ¿Quienes pueden solicitar equivalencias de algunas asignaturas?; 133
+40; ¿Que tipo de ámbitos son los consejos de carrera?; 201
+41; ¿Que datos contienen los anuncios?; 8
+42; ¿Quien esta a cargo de la difusion del llamado a concurso?; 6
+43; ¿Cual es el periodo de inscripcion a la convocatoria?; 10
+44; ¿Como realizo mi solicitud de inscripcion?; 12
+45; ¿Cuando presento el pleanamiento de la catedra?; 14
+46; ¿Puedo presentarme a mas de un concurso?; 18
+47; ¿Puede un apoderado intervenir en mis tramites?; 17
+48; ¿Como se designa al jurado?; 25
+49; ¿Como se compone el jurado?; 26
+50; ¿Cuales son las causales de recusacion de un miembro del jurado?; 30
+51; ¿Como evalua el jurado al aspirante?; 44
+52; ¿Quienes participan en la deliberacion del jurado?; 46
+53; ¿Puede haber mas de un aspirante con el mismo merito?; 48
+54; ¿Que restricciones tiene un alumno pasivo?; 102
+55; ¿Que podra realizar un alumno activo?; 103
+56; ¿Cuanto tiempo se mantiene la regularidad en una asignatura?; 105
+57; ¿De que consta la perdida de la regularidad?; 107
+58; ¿Que esta habilitado a realizar un alumno libre?; 114
+59; ¿En que momento se da a conocer la condiicon de cada alumno?; 115
+60; ¿Cuantos turnos de examenes finales se dictan por año lectivo?; 117
+61; ¿Que contiene un acta de evaluacion?; 121
+62; ¿Como se lleva control de asignaturas correlativas?; 131
+63; ¿Con que categorias de docentes universitarios cuenta la Facultad?; 148
+64; ¿Cuales son las normas para el dictado de clases?; 151
+65; ¿Como se determina la condicion de los alumnos?; 163
+66; ¿Quienes estan habilitados a ingresar a la ensenanza de grado?; 228
+67; ¿Cuales son los derechos del estudiante?; 234
+68; ¿Que requisitos se especifican para ser docente?; 257
+69; ¿Cuales son las condiciones para acceder a la formación de posgrado?; 261
+70; ¿De que se encarga el estado provincial?; 315
+71; ¿Cuales son los objetivos de la educacion superior?; 362
+72; ¿Cuales son las modalidades del sistema educativo?; 371
+73; ¿Cuales son los organos del gobierno universitario?; 381
+74; ¿Quienes integran el consejo superior?; 386
+75; ¿Quienes integran el consejo directivo?; 396
+76; ¿Cuales son las funciones del consejo directivo?; 399
+77; ¿Cuales son los requsitos para ser decano de la Facultad?; 400
+78; ¿Cuales son las funciones del decano?; 401
+79; ¿Que categorias de estudaintes reconoce la facultad?; 451
+80; ¿Cuales son las formas de realizar la docencia?; 463
+81; ¿De que consta la docencia regular?; 464
+82; ¿De que consta la docencia libre?; 465
+83; ¿De que manera se fomenta el desarrollo de la investigacion?; 467
+84; ¿Cual es el fondo universitario?; 474
+85; ¿Que cargos son incompatibles?; 482
+86; ¿Cuales son las medidas ante la ausencia de un docente?; 492
+87; ¿Cual es el objetivo de la tesis de cada alumno?; 10035
+88; ¿Que es la tesis del estudiante?; 10040
+89; ¿Cual es el plazo para la presentacion de la tesis?; 10084
+90; ¿Qué obligaciones tienen los padres o tutores de los alumnos ?; 10174
+91; ¿Que derechos tienen los padres o tutores de los alumnos ?; 10173
+92; ¿Que deberes tienen los trabajadores de la educación?; 10176
+93; ¿Cuales son los objetivos de la educación  especial?; 10157
+94; ¿Cuales son las funciones de las universidades?; 10150
+95; ¿Cuales son los objetivos de la educación de adultos?; 10159
+96; ¿Que tiene la formación docente como objetivos?; 10147
+97; ¿Cuales son los derechos de los educandos?; 10172
+98; ¿Que se verifica en la evaluación  de la calidad en el sistema educativo?; 10178
+99; ¿Qué tiene como objetivos la educación de posgrado?; 10152
+100; ¿Cuales son los deberes de los trabajadores de la educación?; 10176
+101; ¿Qué verificará la evaluación de la calidad en el sistema educativo; 10178
+102; ¿Qué deberá hacer el El Poder Ejecutivo nacional, a través del ministerio específico?; 10182
+103; ¿Cuál es la misión del Consejo Federal de Cultura y Educación?; 10184
+104; ¿Cuáles son las funciones del Consejo Federal de Cultura y Educación?; 10185
+105; ¿Cuáles son los organos que se compone el Consejo Federal de Cultura y Educación?; 10186
+106; ¿De que dos Consejos Consultivos recibirá apoyo el Consejo Federal de Cultura y Educación?; 10187
+107; ¿Qué atribuciones tienen las autoridades componententes de las provincias y de la municipalidad de la Ciudad de Buenos Aires?; 10188
+108; ¿Con que finalidad financia el Poder Ejecutivo nacional los programas especiales de desarrollo educativo? ; 10193
+109; ¿Que acordaron El Ministerio de Cultura y Educación y las autoridades educativas de las provincias y de la Municipalidad de la Ciudad de Buenos Aires con el seno del Consejo Federal de Cultura y Educación?; 10195
+110; ¿El presupuesto de la administración pública nacional 1993 sera inferior a cual presupuesto?; 10196
+111; ¿Las disposiciones de esta ley son aplicables a todos los niveles y regímenes especiales educativos con excepción cuales artículos?; 10197
+112; ¿Que derechos tienen los padres o tutores de los alumnos/as?; 10173
+113; ¿Que obligaciones tienen los padres o tutores de los alumnos/as?; 10174
+114; ¿Cuales derechos de todos los trabajadores/as de la educación del ámbito estatal y privado se resguardarán?; 10175
+115; ¿Cuales son los deberes de los trabajadores de la educación?; 10176
 116; Que deberán garantizar el Ministerio de Cultura y Educación de la Nación, las provincias y la Municipalidad de la Ciudad de Buenos Aires?; 10177
 117; Cuales son las funciones del Responsible?; 10098
 118; Que confeccionará para cada carrera de cada sede y/o subsede el Departamento Personal de la Facultad?; 10103
