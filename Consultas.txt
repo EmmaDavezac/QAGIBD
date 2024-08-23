@@ -1,37 +1,37 @@
 idConsulta; Consulta; idRespuestaEsperada(idArticulo) 
-1; Cuales son las condiciones para presentarse a un concurso?; 9
-2; Quién debe regir la convocatoria para la designación por concurso de profesores ordinarios?; 3
-3; Cómo se publicita un llamado a concurso?; 6
-4; Qué contenido tienen los anuncios?; 8
-5; Cuales son los requisitos para los aspirantes a un concurso?; 9
-6; Cuales son los plazos de inscripción?; 10
-7; En dónde se realizan las inscripciones?; 11
-8; Que documentación deben presentar los aspirantes a un concurso?; 13
-9; Cuales son los requisitos ante inscripciones múltiples? ; 18
-10; Que se hace en el cierre de inscripción?; 19
-11; Que se realiza en la exhibición de nómina de aspirantes; 20
-12; Quienes pueden ejercer el derecho de impugnar la participación en el concurso de los aspirantes?; 21
-13; Que consecuencias tiene la interposición de la impugnación?; 22
-14; Que tiene que pasar para que el consejo directivo excluya a un aspirante?; 23
-15; Que organismo designa a los integrantes del jurado?; 25
-16; Que condiciones deben reunir los integrantes del jurado?; 27
-17; Cómo se realiza la recusasión de los miembros del jurado?; 29
-18; Cuales son los causales de recusasión para algún aspirante?; 28
-19; Qué organismo resuelve las recusasiones y excusasiones del jurado?; 33
-20; Quien reemplaza a un jurado recusado o excusado?; 34
-21; Que presencia hace falta para que el jurado funciones válidamente?; 39
-22; Que antelación tiene que haber para realizar un sorteo del tema y orden de exposición?; 40
-23; Cuales son las pautas para la evaluación de un aspirante?; 44
-24; Cuanto tiempo debe pasar para notificar las conclusiones del dictamen del jurado?; 49
-25; A cargo de que organismo está la designación de profesores por concurso?; 54
-26; Qué sucede cuando existen reales dificultades para obtener miembros del jurado?; 62
-27; Que se realiza ante la aparición de una nueva vacante o puesto curricular?; 70
-28; Qué carácter tienen las solicitudes de inscripción a un concurso docente?; 73
-29; Quienes pueden recusar a los miembros del jurado?; 80
-30; Quien resuelve las excusasiones y recusaciones ; 84
-31; Que actividades no puede realizar un alumno en categoría pasivo?; 102
-32; Hasta cuando se mantiene la regularidad de la asignatura?; 105
-33; Que implica la pérdida de regularidad?; 107
+1; ¿Cuales son las condiciones para presentarse a un concurso?; 9
+2; ¿Quién debe regir la convocatoria para la designación por concurso de profesores ordinarios?; 3
+3; ¿Cómo se publicita un llamado a concurso?; 6
+4; ¿Qué contenido tienen los anuncios?; 8
+5; ¿Cuales son los requisitos para los aspirantes a un concurso?; 9
+6; ¿Cuales son los plazos de inscripción?; 10
+7; ¿En dónde se realizan las inscripciones?; 11
+8; ¿Que documentación deben presentar los aspirantes a un concurso?; 13
+9; ¿Cuales son los requisitos ante inscripciones múltiples? ; 18
+10; ¿Que se hace en el cierre de inscripción?; 19
+11; ¿Que se realiza en la exhibición de nómina de aspirantes; 20
+12; ¿Quienes pueden ejercer el derecho de impugnar la participación en el concurso de los aspirantes?; 21
+13; ¿Que consecuencias tiene la interposición de la impugnación?; 22
+14; ¿Que tiene que pasar para que el consejo directivo excluya a un aspirante?; 23
+15; ¿Que organismo designa a los integrantes del jurado?; 25
+16; ¿Que condiciones deben reunir los integrantes del jurado?; 27
+17; ¿Cómo se realiza la recusasión de los miembros del jurado?; 29
+18; ¿Cuales son los causales de recusasión para algún aspirante?; 28
+19; ¿Qué organismo resuelve las recusasiones y excusasiones del jurado?; 33
+20; ¿Quien reemplaza a un jurado recusado o excusado?; 34
+21; ¿Que presencia hace falta para que el jurado funciones válidamente?; 39
+22; ¿Que antelación tiene que haber para realizar un sorteo del tema y orden de exposición?; 40
+23; ¿Cuales son las pautas para la evaluación de un aspirante?; 44
+24; ¿Cuanto tiempo debe pasar para notificar las conclusiones del dictamen del jurado?; 49
+25; ¿A cargo de que organismo está la designación de profesores por concurso?; 54
+26; ¿Qué sucede cuando existen reales dificultades para obtener miembros del jurado?; 62
+27; ¿Que se realiza ante la aparición de una nueva vacante o puesto curricular?; 70
+28; ¿Qué carácter tienen las solicitudes de inscripción a un concurso docente?; 73
+29; ¿Quienes pueden recusar a los miembros del jurado?; 80
+30; ¿Quien resuelve las excusasiones y recusaciones ; 84
+31; ¿Que actividades no puede realizar un alumno en categoría pasivo?; 102
+32; ¿Hasta cuando se mantiene la regularidad de la asignatura?; 105
+33; ¿Que implica la pérdida de regularidad?; 107
 34; Que es un alumno vocacional?; 109
 35; Que derechos tiene un alumno vocacional?; 110
 36; Como puede aprobar una asignatura un alumno regular?; 113
